@@ -1,1 +1,287 @@
-const _0x2f4b1d=_0x4a76;(function(_0x58aff3,_0x48f091){const _0x4c00d1=_0x4a76;const _0x272cab=_0x58aff3();while(!![]){try{const _0x454c93=-parseInt(_0x4c00d1(0x241))/0x1*(-parseInt(_0x4c00d1(0x2a1))/0x2)+-parseInt(_0x4c00d1(0x1f7))/0x3+-parseInt(_0x4c00d1(0x29e))/0x4*(-parseInt(_0x4c00d1(0x262))/0x5)+parseInt(_0x4c00d1(0x170))/0x6*(-parseInt(_0x4c00d1(0x1b4))/0x7)+-parseInt(_0x4c00d1(0x1cf))/0x8*(-parseInt(_0x4c00d1(0x276))/0x9)+-parseInt(_0x4c00d1(0x236))/0xa+parseInt(_0x4c00d1(0x191))/0xb*(parseInt(_0x4c00d1(0x20b))/0xc);if(_0x454c93===_0x48f091){break;}else{_0x272cab['push'](_0x272cab['shift']());}}catch(_0x414bcc){_0x272cab['push'](_0x272cab['shift']());}}}(_0x4273,0x22b1d));import{connect}from'\x63\x6c\x6f\x75\x64\x66\x6c\x61\x72\x65\x3a\x73\x6f\x63\x6b\x65\x74\x73';let password='';function _0x4273(){const _0x48aa6c=['\x63\x6c\x6f\x73\x65\x64','\x31\x30\x33\x2e\x32\x31\x2e\x32\x34\x34','\x73\x69\x67\x6e\x61\x6c','\x26\x61\x6c\x70\x6e\x3d\x68\x33\x26\x66','\x2d\x2d\x2d\x2d\x0a','\x31\x33\x38\x38\x37\x36\x42\x78\x44\x43\x59\x42','\u9002\u5e94\u8ba2\u9605\u5730\u5740\x3a\x0a\x68\x74','\x6c\x6f\x67','\x32\x32\x73\x76\x79\x63\x47\x46','\x65\x6e\x74\x72\x69\x65\x73','\x64\x47\x56\x73\x5a\x57\x64\x79\x59\x57','\x6a\x73\x6f\x6e','\x3b\x20\x74\x6f\x74\x61\x6c\x3d','\x77\x73\x26\x68\x6f\x73\x74\x3d','\x45\x4b\x61\x48\x52\x30\x63\x48\x4d\x6c','\x73\x65\x61\x72\x63\x68\x50\x61\x72\x61','\x65\x20\x61\x62\x6f\x72\x74','\x66\x69\x6c\x74\x65\x72','\x65\x26\x73\x63\x76\x3d\x74\x72\x75\x65','\x74\x6f\x53\x74\x72\x69\x6e\x67','\x68\x61\x73','\x68\x74\x74\x70\x73\x3a\x2f\x2f','\x66\x69\x6e\x64','\x6e\x74\x2e\x6e\x65\x74','\x3f\x73\x65\x63\x75\x72\x69\x74\x79\x3d','\x65\x72\x3e\u57ce\u5e02\x3a\x20','\x72\x65\x61\x6d\x20\x77\x61\x73\x20\x63','\x69\x6e\x67\x2d\x62\x6f\x78\x20\u8ba2\u9605','\x72\x61\x6e\x64\x6f\x6d','\x55\x73\x65\x72\x2d\x41\x67\x65\x6e\x74','\x4a\x55\x45\x78\x4a\x55\x49\x35\x4a\x55','\x43\x46\x2d\x57\x6f\x72\x6b\x65\x72\x73','\x64\x61\x74\x61','\x52\x50\x52\x4f\x58\x59\x49\x50','\x57\x4f\x52\x44\u5c31\u662f\u9519\u7684\uff01\uff01','\x63\x6f\x6e\x6e\x65\x63\x74\x65\x64\x20','\x65\x26\x78\x75\x64\x70\x3d\x66\x61\x6c','\x65\x62\x53\x6f\x63\x6b\x65\x74\x20\x65','\x2f\x73\x75\x62\x3f\x74\x61\x72\x67\x65','\x2e\x30\x2f\x32\x31','\x2d\x53\x55\x42','\x73\x75\x62','\x62\x75\x66\x66\x65\x72','\x62\x36\x34','\x38\x34\x34\x33','\x73\x6f\x63\x6b\x73','\x70\x72\x6f\x78\x79\x69\x70\x2e','\x65\x26\x74\x66\x6f\x3d\x66\x61\x6c\x73','\x75\x72\x6c','\x20\x74\x63\x70','\x6f\x6e\x6e\x65\x63\x74\x69\x6f\x6e','\x67\x65\x74','\x43\x46\x43\x44\x4e\uff08\u8bbf\u95ee\u65b9\u5f0f','\x2f\x70\x72\x6f\x78\x79\x69\x70\x2e','\x4b\x67\x3d\x3d','\x3a\x34\x34\x33','\x73\x74\x72\x69\x6e\x67\x69\x66\x79','\x2e\x6f\x72\x67\x2f\x62\x6f\x74','\x73\x6f\x6d\x65','\x64\x58\x4d\x76\x59\x32\x31\x73\x61\x58','\x67\x65\x74\x52\x65\x61\x64\x65\x72','\x72\x65\x61\x64\x61\x62\x6c\x65\x57\x65','\x70\x75\x73\x68','\x74\x65\x78\x74','\x72\x65\x61\x64\x61\x62\x6c\x65\x53\x74','\x64\x69\x67\x65\x73\x74','\x61\x70\x69\x2e\x63\x6f\x6d\x2f\x6a\x73','\x63\x65\x69\x6c','\x0a\u7ec4\u7ec7\x3a\x20','\x4f\x52\x44\u53d8\u91cf\uff0c\u6216\u5c1d\u8bd5\u91cd','\x53\x4f\x43\x4b\x53\x35\x25\x45\x46\x25','\x5a\x6e\x61\x58\x52\x6f\x64\x57\x49\x75','\x69\x6e\x76\x61\x6c\x69\x64\x20\x64\x61','\x39\x25\x33\x41\x25\x32\x30','\x65\x61\x6d\x20\x69\x73\x20\x61\x62\x6f','\uff09\x3a\x20\x50\x72\x6f\x78\x79\x49\x50','\x6b\x6c\x4f\x45\x4d\x68\x43\x6d\x68\x30','\u670d\u52a1\uff0c\u8bf7\u5c3d\u5feb\u7ed1\u5b9a\u81ea\u5b9a','\x69\x2e\x74\x65\x6c\x65\x67\x72\x61\x6d','\x68\x69\x6e\x67\x20\x63\x6f\x6e\x74\x65','\x52\x54\x63\x6c\x51\x6b\x45\x6c\x51\x6b','\x67\x65\x74\x55\x69\x6e\x74\x38','\x62\x6c\x65\x20\x6d\x65\x74\x68\x6f\x64','\x73\x74\x20\x64\x61\x74\x61','\x4d\x75\x6c\x74\x69\x4d\x6f\x64\x65\x2e','\x77\x72\x69\x74\x61\x62\x6c\x65','\x66\x69\x6e\x61\x6c\x6c\x79','\x32\x30\x35\x33','\x4d\x6f\x7a\x69\x6c\x6c\x61\x2f\x35\x2e','\x65\x63\x74\x69\x6f\x6e\x20\x6f\x70\x65','\x0a\x3c\x74\x67\x2d\x73\x70\x6f\x69\x6c','\u4f18\u9009\u57df\u540d\x26\x49\x50\x20\u7684\x20','\x65\x6e\x63\x6f\x64\x65','\x20\x72\x65\x71\x75\x65\x73\x74','\x73\x65\x26\x65\x78\x70\x61\x6e\x64\x3d','\x62\x53\x6f\x63\x6b\x65\x74\x53\x74\x72','\x0a\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d','\x74\x65\x73\x74','\x0a\x53\x55\x42\x43\x4f\x4e\x46\x49\x47','\x74\x70\x73\x3a\x2f\x2f','\x67\x65\x74\x55\x69\x6e\x74\x31\x36','\x56\x69\x4a\x54\x49\x77\x4a\x55\x55\x35','\x55\x52\x4c\x33\x30\x32','\x61\x70\x70\x6c\x69\x63\x61\x74\x69\x6f','\x51\x30\x59\x74\x56\x32\x39\x79\x61\x32','\x75\x70\x6c\x6f\x61\x64\x3d','\x70\x72\x6f\x78\x79\x69\x70','\x61\x6d\x65\x2f\x70\x61\x73\x73\x77\x6f','\x23\x23\x23\x23\x23\x0a\x53\x75\x62\x73','\x3a\x20\x7b\x48\x6f\x73\x74\x3a\x20','\x6e\x74\x3a\x20','\x76\x61\x6c\x75\x65\x73','\x72\x74\x65\x64','\x53\x4f\x43\x4b\x53\x35','\x69\x6e\x76\x61\x6c\x69\x64\x20\x61\x64','\x63\x61\x74\x63\x68','\x61\x63\x63\x65\x70\x74','\x6e\x74\x3a','\x0a\x46\x41\x4b\x45\x50\x41\x53\x53\x3a','\x73\x65\x64','\x72\x65\x74\x72\x79\x20\x74\x63\x70\x53','\x6c\x69\x6e\x65\x5f\x4d\x69\x6e\x69\x5f','\x0a\x53\x55\x42\x41\x50\x49\uff08\u8ba2\u9605','\x4f\x45\x45\x6c\x4f\x44\x41\x6c\x52\x54','\x6d\x61\x74\x63\x68','\x66\x75\x6c\x66\x69\x6c\x6c\x65\x64','\x3b\x20\x64\x6f\x77\x6e\x6c\x6f\x61\x64','\u91cf\u63d0\u4f9b\x0a','\x77\x6f\x72\x6b\x65\x72\x73\x2e\x64\x65','\x6d\x65\x73\x73\x61\x67\x65','\x73\x69\x6e\x67\x2d\x62\x6f\x78','\x2f\x3f\x65\x64\x3d\x32\x35\x36\x30','\x73\x65\x63\x2d\x77\x65\x62\x73\x6f\x63','\x25\x45\x36\x25\x38\x39\x25\x38\x30\x25','\x4a\x6d\x56\x77\x5a\x57\x6c\x31\x63\x7a','\x63\x75\x72\x65\x3d\x31\x26\x74\x79\x70','\x68\x74\x74\x70\x3a\x2f\x2f\x69\x70\x2d','\x23\x23\x23\x23\x23\x23\x23\x23\x23\x0a','\x59\x57\x78\x73\x49\x47\x6c\x75','\x65\x6e\x20\x73\x6f\x63\x6b\x73\x20\x63','\x73\x20\x66\x6f\x72\x6d\x61\x74','\x73\x65\x2c\x20\x75\x64\x70\x2d\x72\x65','\x20\x65\x6d\x70\x74\x79\x2c\x20\x61\x64','\x53\x48\x41\x32\x32\x34\x50\x41\x53\x53','\x78\x79\x49\x50\x0a','\x65\x3d\x48\x54\x4d\x4c\x26\x74\x65\x78','\x61\x64\x64\x72\x65\x73\x73\x20\x69\x73','\x43\x4f\x4e\x46\x49\x47\x20','\x72\x65\x6a\x65\x63\x74','\x73\x69\x6e\x67\x62\x6f\x78','\x73\x3d\x48\x6f\x73\x74\x3a\x22','\x73\x74\x65\x6e\x65\x72','\x72\x65\x61\x64','\x64\x48\x4a\x76\x61\x6d\x46\x75','\x41\x44\x44\x41\x50\x49','\x69\x6e\x63\x6c\x75\x64\x65\x73','\x2d\x2d\x2d\x2d\x2d\x2d\x0a\u5feb\u901f\u81ea','\x23\u83b7\u53d6\u8ba2\u9605\x20','\x74\x72\x75\x65','\x25\x38\x44\x25\x45\x35\x25\x38\x44\x25','\x64\x2c\x20\x68\x61\x73\x49\x6e\x63\x6f','\x2a\x3d\x75\x74\x66\x2d\x38\x27\x27','\x4d\x30\x45\x6c\x4d\x6b\x59\x6c\x4d\x6b','\x2c\x20\x73\x65\x72\x76\x65\x72\x3a\x20','\x73\x6f\x63\x6b\x73\x35','\x0a\x49\x50\x3a\x20','\x72\x61\x6e\x64\x6f\x6d\x69\x7a\x65\x64','\x30\x74\x43\x69\x55\x79\x4d\x79\x55\x79','\x41\x43\x4c\x34\x53\x53\x52\x5f\x4f\x6e','\x63\x68\x61\x72\x41\x74','\x41\x50\x49\uff09\x3a\x20\x0a\x20\x20','\x65\x70\x65\x69\x75\x73','\x20\x7b\x70\x61\x74\x68\x3a\x20\x22','\x63\x72\x69\x62\x65\x20\x2f\x20\x73\x75','\x75\x65\x20\x74\x6f\x20','\x72\x65\x76\x65\x72\x73\x65','\x64\x72\x65\x73\x73\x54\x79\x70\x65\x20','\x73\x2f\x41\x44\x44\x2a\x20\u53c2\u6570\u53d8','\x68\x65\x61\x64\x65\x72\x73','\x20\uff01\uff01\uff01\x0a','\x70\x72\x6f\x74\x6f\x63\x6f\x6c','\x41\x44\x44\x43\x53\x56\uff08\x49\x50\x54','\x51\x6b\x45\x6c\x51\x54\x51\x6c\x52\x54','\x6c\x2c\x61\x70\x70\x6c\x69\x63\x61\x74','\x3a\x20\x74\x72\x75\x65\x2c\x20\x6e\x65','\x2f\x73\x65\x6e\x64\x4d\x65\x73\x73\x61','\x33\x35\x37\x36\x47\x6c\x77\x4b\x77\x6a','\x69\x6e\x76\x69\x6c\x64\x20\x20\x61\x64','\x70\x6c\x65\x61\x73\x65\x20\x70\x72\x6f','\x55\x52\x4c','\x48\x6f\x73\x74','\x32\x30\x39\x36','\x3c\x2f\x74\x67\x2d\x73\x70\x6f\x69\x6c','\x20\x65\x72\x72\x6f\x72','\x0a\x23\x23\x23\x23\x23\x23\x23\x23\x23','\x3d\x74\x72\x75\x65','\x6f\x72\x67','\x2a\x63\x6c\x6f\x75\x64\x61\x74\x61\x63','\x63\x47\x56\x70\x64\x58\x4d\x4b\x4c\x53','\x0a\x20\x20','\x56\x79\x63\x79\x31\x6c\x63\x47\x56\x70','\x65\x2c\x20\x77\x73\x3d\x74\x72\x75\x65','\x76\x65\x72\x69\x66\x79\x3d\x74\x72\x75','\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d\x2d','\x3f\x73\x62\x0a\x68\x74\x74\x70\x73\x3a','\x66\x6c\x6f\x6f\x72','\x63\x69\x74\x79','\x55\x33\x4a\x54\x6c\x43\x4a\x55\x46\x46','\x23\x23\x23\x23\x23\x23\x23\x23\x23\x23','\x26\x6c\x69\x73\x74\x3d\x66\x61\x6c\x73','\x4c\x53\x30\x74\x4c\x53\x30\x74\x4c\x53','\x43\x4b\x53\x35\x20\x72\x65\x71\x75\x65','\x2a\x2e\x6c\x6f\x61\x64\x73\x68\x61\x72','\x69\x6e\x76\x61\x6c\x69\x64\x20\x53\x4f','\x20\x69\x73\x20\x6e\x6f\x74\x20\x6f\x70','\x6d\x61\x70','\x69\x6e\x67\x2d\x49\x50','\x72\x65\x61\x64\x61\x62\x6c\x65','\u8bd5\u90e8\u7f72\uff0c\u68c0\u67e5\u53d8\u91cf\u662f\u5426','\x35\x30\x36\x64\x57\x67\x58\x59\x46','\x65\x72\x3e','\x6c\x65\x6e\x67\x74\x68','\x77\x65\x62\x53\x6f\x63\x6b\x65\x74\x20','\x43\x53\x56\u6587\u4ef6\u7f3a\u5c11\u5fc5\u9700\u7684','\x68\x74\x74\x70\x73\x3a\x2f\x2f\x72\x61','\x54\x52\x55\x45','\x66\x61\x69\x6c\x20\x74\x6f\x20\x6f\x70','\x73\x74\x61\x74\x75\x73','\u8981\u60a8\u8bbe\u7f6e\x20\x70\x72\x6f\x78\x79','\x65\x6e\x71\x75\x65\x75\x65','\x51\x6c\x4d\x6a\x41\x6c\x52\x54\x59\x6c','\x2d\x20\x7b\x6e\x61\x6d\x65\x3a\x20','\x20\u9650\u901f\x20','\x26\x70\x61\x72\x73\x65\x5f\x6d\x6f\x64','\x72\x65\x6c\x65\x61\x73\x65\x4c\x6f\x63','\x6e\x65\x6b\x6f\x62\x6f\x78','\x72\x65\x61\x64\x79\x53\x74\x61\x74\x65','\x77\x65\x62\x53\x6f\x63\x6b\x65\x74\x53','\x74\x72\x75\x65\x26\x73\x63\x76\x3d\x74','\x45\x36\x25\x39\x43\x25\x38\x39\x25\x45','\x61\x64\x64\x45\x76\x65\x6e\x74\x4c\x69','\x70\x61\x64\x53\x74\x61\x72\x74','\x35\x70\x62\x77\x3d\x3d','\x68\x74\x74\x70\x3a\x2f\x2f','\x31\x73\x61\x58\x55\x6c\x4d\x6b\x5a\x6c','\x49\x50\x2f\x50\x52\x4f\x58\x59\x49\x50','\x30\x20\x43\x68\x72\x6f\x6d\x65\x2f\x39','\x63\x68\x20\x69\x73\x20\x6e\x6f\x74\x20','\x53\x55\x42\x41\x50\x49\x2e\x66\x78\x78','\x33\x5d\x2c\x20\x73\x6b\x69\x70\x2d\x63','\x52\x68\x63\x69\x46\x54\x64\x47\x46\x79','\x61\x79\x35\x6b\x5a\x57\x52\x35\x62\x69','\x20\x42\x61\x73\x65\x36\x34\u3001\x63\x6c','\x26\x69\x6e\x73\x65\x72\x74\x3d\x66\x61','\x32\x30\x35\x31\x50\x45\x63\x46
+
+import { connect } from "cloudflare:sockets";
+
+let password = '';
+let proxyIP = '';
+let sub = ''; 
+let subConverter = 'SUBAPI.fxxk.dedyn.io';// clash订阅转换后端，目前使用CM的订阅转换功能。自带虚假节点信息防泄露
+let subConfig = "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini_MultiMode.ini"; //订阅配置文件
+let subProtocol = 'https';
+let subEmoji = 'true';
+let socks5Address = '';
+let parsedSocks5Address = {}; 
+let enableSocks = false;
+
+let fakeUserID ;
+let fakeHostName ;
+const expire = 4102329600;//2099-12-31
+let proxyIPs ;
+let socks5s;
+let go2Socks5s = [
+	'*ttvnw.net',
+	'*tapecontent.net',
+	'*cloudatacdn.com',
+	'*.loadshare.org',
+];
+let addresses = [];
+let addressesapi = [];
+let addressescsv = [];
+let DLS = 8;
+let FileName = 'epeius';
+let BotToken ='';
+let ChatID =''; 
+let proxyhosts = [];
+let proxyhostsURL = '';
+let RproxyIP = 'false';
+let httpsPorts = ["2053","2083","2087","2096","8443"];
+let sha224Password ;
+const regex = /^(\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}|\[.*\]):?(\d+)?#?(.*)?$/;
+let proxyIPPool = [];
+let path = '/?ed=2560';
+export default {
+	async fetch(request, env, ctx) {
+		try {
+			const UA = request.headers.get('User-Agent') || 'null';
+			const userAgent = UA.toLowerCase();
+			password = env.PASSWORD || password;
+			if (!password) {
+				return new Response('请设置你的PASSWORD变量，或尝试重试部署，检查变量是否生效？', { 
+					status: 404,
+					headers: {
+						"Content-Type": "text/plain;charset=utf-8",
+					}
+				});
+			}
+			sha224Password = env.SHA224 || env.SHA224PASS || sha224(password);
+			//console.log(sha224Password);
+			subEmoji = env.SUBEMOJI || env.EMOJI || subEmoji;
+			if(subEmoji == '0') subEmoji = 'false';
+			const currentDate = new Date();
+			currentDate.setHours(0, 0, 0, 0); // 设置时间为当天
+			const timestamp = Math.ceil(currentDate.getTime() / 1000);
+			const fakeUserIDMD5 = await MD5MD5(`${password}${timestamp}`);
+			fakeUserID = [
+				fakeUserIDMD5.slice(0, 8),
+				fakeUserIDMD5.slice(8, 12),
+				fakeUserIDMD5.slice(12, 16),
+				fakeUserIDMD5.slice(16, 20),
+				fakeUserIDMD5.slice(20)
+			].join('-');
+			
+			fakeHostName = `${fakeUserIDMD5.slice(6, 9)}.${fakeUserIDMD5.slice(13, 19)}`;
+			
+			proxyIP = env.PROXYIP || proxyIP;
+			proxyIPs = await ADD(proxyIP);
+			proxyIP = proxyIPs[Math.floor(Math.random() * proxyIPs.length)];
+
+			socks5Address = env.SOCKS5 || socks5Address;
+			socks5s = await ADD(socks5Address);
+			socks5Address = socks5s[Math.floor(Math.random() * socks5s.length)];
+			socks5Address = socks5Address.split('//')[1] || socks5Address;
+			if (env.CFPORTS) httpsPorts = await ADD(env.CFPORTS);
+			sub = env.SUB || sub;
+			subConverter = env.SUBAPI || subConverter;
+			if( subConverter.includes("http://") ){
+				subConverter = subConverter.split("//")[1];
+				subProtocol = 'http';
+			} else {
+				subConverter = subConverter.split("//")[1] || subConverter;
+			}
+			subConfig = env.SUBCONFIG || subConfig;
+			if (socks5Address) {
+				try {
+					parsedSocks5Address = socks5AddressParser(socks5Address);
+					RproxyIP = env.RPROXYIP || 'false';
+					enableSocks = true;
+				} catch (err) {
+  					/** @type {Error} */ 
+					let e = err;
+					console.log(e.toString());
+					RproxyIP = env.RPROXYIP || !proxyIP ? 'true' : 'false';
+					enableSocks = false;
+				}
+			} else {
+				RproxyIP = env.RPROXYIP || !proxyIP ? 'true' : 'false';
+			}
+			if (env.ADD) addresses = await ADD(env.ADD);
+			if (env.ADDAPI) addressesapi = await ADD(env.ADDAPI);
+			if (env.ADDCSV) addressescsv = await ADD(env.ADDCSV);
+			DLS = env.DLS || DLS;
+			BotToken = env.TGTOKEN || BotToken;
+			ChatID = env.TGID || ChatID; 
+			if(env.GO2SOCKS5) go2Socks5s = await ADD(env.GO2SOCKS5);
+			const upgradeHeader = request.headers.get("Upgrade");
+			const url = new URL(request.url);
+			if (url.searchParams.has('sub') && url.searchParams.get('sub') !== '') sub = url.searchParams.get('sub');
+			FileName = env.SUBNAME || FileName;
+			if (!upgradeHeader || upgradeHeader !== "websocket") {
+				if (url.searchParams.has('proxyip')) {
+					path = `/?ed=2560&proxyip=${url.searchParams.get('proxyip')}`;
+					RproxyIP = 'false';
+				} else if (url.searchParams.has('socks5')) {
+					path = `/?ed=2560&socks5=${url.searchParams.get('socks5')}`;
+					RproxyIP = 'false';
+				} else if (url.searchParams.has('socks')) {
+					path = `/?ed=2560&socks5=${url.searchParams.get('socks')}`;
+					RproxyIP = 'false';
+				}
+				switch (url.pathname) {
+				case '/':
+					if (env.URL302) return Response.redirect(env.URL302, 302);
+					else if (env.URL) return await proxyURL(env.URL, url);
+					else return new Response(JSON.stringify(request.cf, null, 4), {
+						status: 200,
+						headers: {
+							'content-type': 'application/json',
+						},
+					});
+				case `/${fakeUserID}`:
+					const fakeConfig = await getTrojanConfig(password, request.headers.get('Host'), sub, 'CF-Workers-SUB', RproxyIP, url);
+					return new Response(`${fakeConfig}`, { status: 200 });
+				case `/${password}`:
+					await sendMessage(`#获取订阅 ${FileName}`, request.headers.get('CF-Connecting-IP'), `UA: ${UA}</tg-spoiler>\n域名: ${url.hostname}\n<tg-spoiler>入口: ${url.pathname + url.search}</tg-spoiler>`);
+					const trojanConfig = await getTrojanConfig(password, request.headers.get('Host'), sub, UA, RproxyIP, url);
+					const now = Date.now();
+					//const timestamp = Math.floor(now / 1000);
+					const today = new Date(now);
+					today.setHours(0, 0, 0, 0);
+					const UD = Math.floor(((now - today.getTime())/86400000) * 24 * 1099511627776 / 2);
+					let pagesSum = UD;
+					let workersSum = UD;
+					let total = 24 * 1099511627776 ;
+
+					if (userAgent && (userAgent.includes('mozilla') || userAgent.includes('subconverter'))){
+						return new Response(`${trojanConfig}`, {
+							status: 200,
+							headers: {
+								"Content-Type": "text/plain;charset=utf-8",
+								"Profile-Update-Interval": "6",
+								"Subscription-Userinfo": `upload=${pagesSum}; download=${workersSum}; total=${total}; expire=${expire}`,
+							}
+						});
+					} else {
+						return new Response(`${trojanConfig}`, {
+							status: 200,
+							headers: {
+								"Content-Disposition": `attachment; filename=${FileName}; filename*=utf-8''${encodeURIComponent(FileName)}`,
+								"Content-Type": "text/plain;charset=utf-8",
+								"Profile-Update-Interval": "6",
+								"Subscription-Userinfo": `upload=${pagesSum}; download=${workersSum}; total=${total}; expire=${expire}`,
+							}
+						});
+					}
+				default:
+					if (env.URL302) return Response.redirect(env.URL302, 302);
+					else if (env.URL) return await proxyURL(env.URL, url);
+					else return new Response('不用怀疑！你PASSWORD就是错的！！！', { status: 404 });
+				}
+			} else {
+				socks5Address = url.searchParams.get('socks5') || socks5Address;
+				if (new RegExp('/socks5=', 'i').test(url.pathname)) socks5Address = url.pathname.split('5=')[1];
+				else if (new RegExp('/socks://', 'i').test(url.pathname) || new RegExp('/socks5://', 'i').test(url.pathname)) {
+					socks5Address = url.pathname.split('://')[1].split('#')[0];
+					if (socks5Address.includes('@')){
+						let userPassword = socks5Address.split('@')[0];
+						const base64Regex = /^(?:[A-Z0-9+/]{4})*(?:[A-Z0-9+/]{2}==|[A-Z0-9+/]{3}=)?$/i;
+						if (base64Regex.test(userPassword) && !userPassword.includes(':')) userPassword = atob(userPassword);
+						socks5Address = `${userPassword}@${socks5Address.split('@')[1]}`;
+					}
+				}
+
+				if (socks5Address) {
+					try {
+						parsedSocks5Address = socks5AddressParser(socks5Address);
+						enableSocks = true;
+					} catch (err) {
+						/** @type {Error} */ 
+						let e = err;
+						console.log(e.toString());
+						enableSocks = false;
+					}
+				} else {
+					enableSocks = false;
+				}
+
+				if (url.searchParams.has('proxyip')){
+					proxyIP = url.searchParams.get('proxyip');
+					enableSocks = false;
+				} else if (new RegExp('/proxyip=', 'i').test(url.pathname)) {
+					proxyIP = url.pathname.toLowerCase().split('/proxyip=')[1];
+					enableSocks = false;
+				} else if (new RegExp('/proxyip.', 'i').test(url.pathname)) {
+					proxyIP = `proxyip.${url.pathname.toLowerCase().split("/proxyip.")[1]}`;
+					enableSocks = false;
+				}
+
+				return await trojanOverWSHandler(request);
+			}
+		} catch (err) {
+			let e = err;
+			return new Response(e.toString());
+		}
+	}
+};
+
+async function trojanOverWSHandler(request) {
+	const webSocketPair = new WebSocketPair();
+	const [client, webSocket] = Object.values(webSocketPair);
+	webSocket.accept();
+	let address = "";
+	let portWithRandomLog = "";
+	const log = (info, event) => {
+		console.log(`[${address}:${portWithRandomLog}] ${info}`, event || "");
+	};
+	const earlyDataHeader = request.headers.get("sec-websocket-protocol") || "";
+	const readableWebSocketStream = makeReadableWebSocketStream(webSocket, earlyDataHeader, log);
+	let remoteSocketWapper = {
+		value: null
+	};
+	let udpStreamWrite = null;
+	readableWebSocketStream.pipeTo(new WritableStream({
+		async write(chunk, controller) {
+			if (udpStreamWrite) {
+				return udpStreamWrite(chunk);
+			}
+			if (remoteSocketWapper.value) {
+				const writer = remoteSocketWapper.value.writable.getWriter();
+				await writer.write(chunk);
+				writer.releaseLock();
+				return;
+			}
+			const {
+				hasError,
+				message,
+				portRemote = 443,
+				addressRemote = "",
+				rawClientData,
+				addressType
+			} = await parseTrojanHeader(chunk);
+			address = addressRemote;
+			portWithRandomLog = `${portRemote}--${Math.random()} tcp`;
+			if (hasError) {
+				throw new Error(message);
+				return;
+			}
+			handleTCPOutBound(remoteSocketWapper, addressRemote, portRemote, rawClientData, webSocket, log, addressType);
+		},
+		close() {
+			log(`readableWebSocketStream is closed`);
+		},
+		abort(reason) {
+			log(`readableWebSocketStream is aborted`, JSON.stringify(reason));
+		}
+	})).catch((err) => {
+		log("readableWebSocketStream pipeTo error", err);
+	});
+	return new Response(null, {
+		status: 101,
+		// @ts-ignore
+		webSocket: client
+	});
+}
+
+async function parseTrojanHeader(buffer) {
+	if (buffer.byteLength < 56) {
+		return {
+			hasError: true,
+			message: "inv
